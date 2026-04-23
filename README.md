@@ -1,7 +1,9 @@
 # Smart Campus – Sensor & Room Management API
 
 **Student Name**: Vinuja Sathwara
+
 **Student ID**: w2153007 / 20241189
+
 **Module:** 5COSC022W – Client-Server Architectures  
 **Technology Stack:** Java 11 · JAX-RS (Jersey 2) · Grizzly HTTP Server · Jackson JSON  
 **Base URL:** `http://localhost:8080/api/v1`
