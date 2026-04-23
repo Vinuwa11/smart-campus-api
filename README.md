@@ -50,24 +50,6 @@ All request and response bodies use `application/json`. The API never exposes Ja
 - Java 11+ (JDK)
 - Apache Maven 3.6+
 
-### Steps
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/<your-username>/smart-campus-api.git
-cd smart-campus-api
-
-# 2. Build the fat JAR
-mvn clean package -q
-
-# 3. Run the server
-java -jar target/smart-campus-api-1.0-SNAPSHOT.jar
-```
-
-The server starts at **http://localhost:8080**. Press `ENTER` in the terminal to stop it.
-
----
-
 ## Sample curl Commands
 
 ### 1. Discovery
